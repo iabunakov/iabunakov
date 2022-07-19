@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iabunakov , I am a college student, striving to become a professional developer! 
+- I am currently learning Python and SQL, any tips would be highly appreciated :) Telegram: iabunakov
+-
